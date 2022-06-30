@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+}
+
+.home{
+    margin: 0 auto;
+    width: 50%;
+    align-items: center;
+}
+
+.name{
+    margin: 0 auto;
+    width: 10%;
+    color: white;
+}
+
+.loginSenha{
+    margin: 0 auto;
+    width: 32%;
+}
+
+.login{
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 10px;
+}
+
+.senha{
+    margin: 0 auto;
+    width: 50%;
+    padding-top: 30px;
+}
+
+.botao{
+    margin: 0 auto;
+    width: 5%;
+    padding-top: 30px;
+}
+
+.p1{
+    color: white;
+    margin-left: 45%;
+    padding-top: 30px;
+}
+
+.p2{
+    color: white;
+    margin-left: 43.3%;
+    padding-top: 10px;
+}

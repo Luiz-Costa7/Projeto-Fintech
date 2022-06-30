@@ -1,0 +1,45 @@
+body{
+    background-color: black;
+}
+
+h1{
+    color: white;
+}
+
+h2{
+    color: white;
+
+}
+
+h4{
+    color: white;
+}
+
+.name{
+    margin: 0 auto;
+    width: 5%;
+}
+
+.BT{
+    margin: 0 auto;
+    margin-left: 850px;
+    padding-top: 50px;
+}
+
+.conta{
+    margin: 0 auto;
+    margin-left: 926px;
+    padding-top: 10px;
+}
+
+.debitos{
+    margin: 0 auto;
+    margin-left: 945px;
+    padding-top: 10px;
+}
+
+.config{
+    margin: 0 auto;
+    margin-left: 927px;
+    padding-top: 10px;
+}
